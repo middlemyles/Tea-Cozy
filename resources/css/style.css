@@ -45,12 +45,12 @@ span {
 }
 
 /* --------end of header--------*/
-main {
+.top-section-content {
     padding-top: 69px;
     display: flex;
     justify-content: center;
     width: 100%;
-    height: 100%
+    height: 100%;
 }
 /*----------Controlls the Our Mission section--------*/
 .top-section {
@@ -72,5 +72,17 @@ main {
 /*----End of Our Mission Section----*/
 /*----Start of section Tea of the Month---*/
 
-
 /*----end of section---*/
+/*----Start of third section----*/
+.third-section {
+    display: flex;
+    width: 100%;
+    height: 220px;
+    justify-content: center;
+ 
+}
+.third-content img {
+    height: 200px;
+    margin: 0px 20px;
+}
+/*----End of Third Section----*/
