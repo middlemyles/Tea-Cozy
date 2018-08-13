@@ -157,7 +157,8 @@ footer {
 .copyright {
     display: flex;
     text-align: left;
-    height: 100px;
+    height: 150px;
     align-items: flex-end;
 }
+
 /*----end of footer-------*/
