@@ -58,7 +58,7 @@ h4 {
 /*----------Controlls the Our Mission section--------*/
 
 .top-section {
-    background-image: url("/Users/trevorwoodard/Desktop/Tea-Cozy/resources/pics/img-mission-background.jpg");
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
     justify-content: center;
     align-items: center;
     width: 1200px;
@@ -112,7 +112,7 @@ h4 {
     height: 575px;
     margin-top: 100px;
     margin-left: 80px;
-    background-image: url("/Users/trevorwoodard/Desktop/Tea-Cozy/resources/pics/img-locations-background.jpg");
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
 }
 .loctions-content {
     height: 575px;
